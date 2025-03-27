@@ -1,0 +1,16 @@
+# 가상 환경
+venv/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller 빌드 파일
+dist/
+build/
+*.spec
+
+# 기타
+*.log
