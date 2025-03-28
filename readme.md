@@ -20,6 +20,7 @@
 
 ## 설치 및 실행
 
+0. 윈도우의 경우 : dist 폴더에서 PhotoBatchNamer.exe 다운로드.
 1. Python 3.x 설치.
 2. 프로젝트 디렉토리로 이동:
     ```
