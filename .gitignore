@@ -8,7 +8,7 @@ __pycache__/
 *.pyd
 
 # PyInstaller 빌드 파일
-dist/
+# dist/
 build/
 *.spec
 
